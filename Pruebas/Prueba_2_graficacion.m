@@ -2,7 +2,7 @@ clc;
 
 x = linspace(0,2*pi);
 
-y = x;
+% y = x;
 
 subplot(1,2,1);
 
